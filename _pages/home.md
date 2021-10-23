@@ -1,12 +1,12 @@
 ---
-title: "Allan Lab - Home"
+title: "The BrainCircuits Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "The BrainCircuits Lab at The University of Texas at Dallas."
 sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter.
+We are a academic research group at the [School of Behavioral and Brain Science](https://bbs.utdallas.edu/). Our goal is to understand human brain and the mechanisms of the brain diseases, including Parkinson's Disease, Alzheimer's Disease, and language disorders.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
