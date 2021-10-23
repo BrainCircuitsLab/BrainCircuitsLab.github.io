@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "The BrainCircuits Lab at The University of Texas at Dallas."
 sitemap: false
 permalink: /allnews.html
 ---
