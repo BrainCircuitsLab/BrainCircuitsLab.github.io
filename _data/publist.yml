@@ -1,5 +1,5 @@
 - title: "Bridging scales in Alzheimer's disease: Biological framework for brain simulation with The Virtual Brain"
-  image: TBG_SL.png
+  image: pub042021.png
   description: In the present review, we discuss candidate contributing factors leading to AD, and evaluate novel computational brain simulation methods to further disentangle their potential roles.
   authors: Leon Stefanovski, Jil Mona Meier, Roopa Kalsank Pai, Paul Triebkorn, Tristram Lett, Leon Martin, Konstantin Bülau, Martin Hofmann-Apitius, Ana Solodkin, Anthony Randal McIntosh, Petra Ritter
   link:
@@ -9,7 +9,7 @@
   news2:
 
 - title: "One season of head-to-ball impact exposure alters functional connectivity in a central autonomic network"
-  image: TBG_SL.png
+  image: pub122020.png
   description: We sought to relate head-to-ball impact exposure to changes in functional connectivity in a core set of central autonomic regions and then to determine the relation between changes in brain and changes in behavior, specifically cognitive control.
   authors: Derek C Monroe, Robert S Blumenfeld, David B Keator, Ana Solodkin, Steven L Small
   link:
@@ -19,7 +19,7 @@
   news2: 
 
 - title: "Heritability of Structural Patterning in the Human Cerebral Cortex"
-  image: TiNHigh.png
+  image: pub112020.png
   description: Genetic influences that govern the spatial patterning of the human cortex and its structural variability are still incompletely known. We analyzed structural MR images in twins, siblings, and pairs of unrelated subjects. A comprehensive set of methods was employed to quantify properties of cortical features at different spatial scales. 
   authors: Frithjof Kruggel, Ana Solodkin
   link:
@@ -28,7 +28,7 @@
   highlight: 1
 
 - title: "Linking molecular pathways and large-scale computational modeling to assess candidate disease mechanisms and pharmacodynamics in Alzheimer's disease"
-  image: YSR.png
+  image: pub082019.png
   description: The Virtual Brain (TVB; thevirtualbrain.org) neuroinformatics platform allows standardized large-scale structural connectivity-based simulations of whole brain dynamics. We provide proof of concept for a novel approach that quantitatively links the effects of altered molecular pathways onto neuronal population 1 dynamics. As a novelty, we connect chemical compounds measured with positron emission tomography (PET) with neural function in TVB addressing the phenomenon of hyperexcitability in AD related to the protein amyloid beta (Abeta).
   authors: Leon Stefanovski, Paul Triebkorn, Andreas Spiegler, Margarita-Arimatea Diaz-Cortes, Ana Solodkin, Viktor Jirsa, Anthony Randal McIntosh, Petra Ritter, Alzheimer's Disease Neuroimaging Initiative
   link:
@@ -37,7 +37,7 @@
   highlight: 1
 
 - title: "Neurological biomarkers and neuroinformatics: the role of the virtual brain"
-  image: TBG_ARPES.png
+  image: pub012018.png
   description: The Virtual Brain (TVB), to effectively model individualized brain activity, enabling the linkage of large-scale (macroscopic) brain dynamics with biophysical parameters at the meso- and microscopic levels. The remarkable consistency of changes in modeling parameters in our studies points toward feasibility to identify potential biomarkers associated with individual physiopathology in stroke and neurodegeneration. 
   authors: Ana Solodkin, Joelle Zimmermann, Anthony R McIntosh, Leon Stefanovski, Petra Ritter
   link:
@@ -48,7 +48,7 @@
 
 
 - title: "Differentiation of Alzheimer's disease based on local and global parameters in personalized Virtual Brain models"
-  image: TBG_ARPES.png
+  image: pub042018.png
   description: 
   authors: Joelle Zimmermann, Alistair Perry, Michael Breakspear, Michael Schirner, Perminder Sachdev, Wei Wen, Nicole A Kochan, Michael Mapstone, Petra Ritter, Anthony R McIntosh, Ana Solodkin
   link:
