@@ -72,6 +72,47 @@
   education1:
   education2: 
   education3: 
+  
+- name: Rithvik Kanaad
+  photo: comet.jpg
+  info: BSc student (premed)
+  introduction: N/A
+  email: rithvik.kanaad@utdallas.edu
+  number_educ: 0
+  education1:
+  education2: 
+  education3: 
+
+
+- name: Ethan Burkett
+  photo: comet.jpg
+  info: BSc student (premed)
+  introduction: N/A
+  email: ethan.burkett@utdallas.edu
+  number_educ: 0
+  education1:
+  education2: 
+  education3: 
+
+- name: Yash Sharma
+  photo: comet.jpg
+  info: BSc student (premed)
+  introduction: N/A
+  email: yash.sharma@utdallas.edu
+  number_educ: 0
+  education1:
+  education2: 
+  education3: 
+
+- name: Nicole Koulov
+  photo: comet.jpg
+  info: BSc student (premed)
+  introduction: N/A
+  email: nicole.koulov@utdallas.edu
+  number_educ: 0
+  education1:
+  education2: 
+  education3: 
 
 - name: "This could be you !"
   photo: comet.jpg
