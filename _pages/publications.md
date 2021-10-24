@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Group highlights
 
-(For a full list of publications and patents see [below](#full-list-of-publications) or go to [Google Scholar](https://scholar.google.com/citations?user=wYTkphgAAAAJ&hl=en).
+(For a full list of publications and patents see [below](#full-list-of-publications) or go to [Google Scholar, Dr. Solodkin](https://scholar.google.com/citations?user=wYTkphgAAAAJ&hl=en), [Google Scholar, Dr. Small](https://scholar.google.com/citations?user=vO2T2c0AAAAJ&hl=en) and [Google Scholar, Dr. Sharma](https://scholar.google.com/citations?user=f0CoutwAAAAJ&hl=en).
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
