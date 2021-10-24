@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Research"
+title: "The Brain Circuits Lab - Research"
 layout: textlay
-excerpt: "Allan Lab -- Research"
+excerpt: "The Brain Circuits Lab -- Research"
 sitemap: false
 permalink: /research/
 ---
