@@ -8,16 +8,32 @@
 #  education3:
 #  education4:
 
-- name: Thijs van den Munckhof
+- name: Lucia Moya Sans
   photo: rock.jpg
-  info: Master student
-  email: m.ortego.larrazabal@umail.leidenuniv.nl
+  info: Master student from Spain
+  email: 100383016@alumnos.uc3m.es
+  number_educ: 1
+  education1: B.S., University Carlos III of Madrid, Bioengineering
+
+
+- name: Jevin Kainikkara
+  photo: rock.jpg
+  info: BSC student
+  email: jkj170000@utdallas.edu
   number_educ: 0
   education1:
 
-- name: João van der Ven
+- name: Sophia Boisvert
   photo: rock.jpg
   info: BSc student
-  email: m.ortego.larrazabal@umail.leidenuniv.nl
+  email: sophia.boisvert@utdallas.edu
   number_educ: 0
   education1:
+
+- name: Wesley Cha
+  photo: rock.jpg
+  info: BSc student
+  email: wesley.cha@utdallas.edu
+  number_educ: 0
+  education1:
+
