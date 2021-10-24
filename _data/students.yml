@@ -9,6 +9,18 @@
 #  education4:
 
 
+
+- name: Annette Glotfelty
+  photo: annette.jpg
+  info: PhD Student in Speech, Language, and Hearning Sciences Program, started Sep 2017
+  introduction: Annette is a licenced Speech-Language Pathologist. 
+  email: annette.glotfelty@utdallas.edu
+  number_educ: 2
+  education1: Master of Arts, University College London (UCL), Film
+  education2: A.B. Western Illinois University, English, Spanish
+  education3: 
+
+
 - name: Yile Wang
   photo: yile.jpg
   info: PhD Student in Cognition and Neuroscience Program, started September 2021
@@ -20,17 +32,6 @@
   education3:
   education4:
 
-
-
-- name: Annette Glotfelty
-  photo: annette.jpg
-  info: PhD Student in Speech, Language, and Hearning Sciences Program, started Sep 2017
-  introduction: Annette is a licenced Speech-Language Pathologist. 
-  email: annette.glotfelty@utdallas.edu
-  number_educ: 2
-  education1: Master of Arts, University College London (UCL), Film
-  education2: A.B. Western Illinois University, English, Spanish
-  education3: 
   
 
 - name: Lucia Moya Sans
