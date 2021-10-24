@@ -2,42 +2,41 @@
   photo: Milan1.jpg
   info: Professor, started Sep 2019
   email: solodkin@utdallas.edu
-  number_educ: 5
-  education1: Master ETHZ, Diplomarbeit with <a href="http://www.physik.uzh.ch/groups/osterwalder/">J Osterwalder</a>, University of Zurich
-  education2: PhD St Andrews (while at Cornell University) with <a href="http://dpmc.unige.ch/gr_baumberger/index.html">Felix Baumberger</a> and <a href="http://davisgroup.lassp.cornell.edu/">JC Davis</a>
-  education3: Postdoc Cornell
-  education4: <a href="http://www.ethfellows.ethz.ch/">ETH fellow</a> at ETHZ with <a href="https://qudev.phys.ethz.ch">Andreas Wallraff</a>
-  education5: <a href="https://www.universiteitleiden.nl/en/news/2017/07/milan-allan-wins-bryan-r.-coles-prize">Bryan R. Coles Prize 2017</a>
-
-- name: Jianfeng (Jacky) Ge
-  photo: Jacky.jpg
-  info: Postdoc, started Oct 2019
-  email: ge@Physics.LeidenUniv.nl
   number_educ: 3
-  education1: Postdoc with <a href="http://hoffman.physics.harvard.edu">Jenny Hoffman</a>, Harvard University
-  education2: PhD with <a href="https://www.physics.sjtu.edu.cn/en/people/1/jfJia">Jinfeng Jia</a>, Shanghai Jiao Tong University
-  education3: B.S. East China University of Science and Technology
+  education1: Ph.D. Physiology and Biophysics. Center for Research and Advanced Studies of the National Polytechnic Institute, Mexico.
+  education2: M.Sc. Physiology and Biophysics. Center for Research and Advanced Studies of the National Polytechnic Institute, Mexico.
+  education3: B.Sc. Psychophysiology. Anahuac University, Mexico.
 
-- name: Jiasen Niu
-  photo: Jiasen.png
-  info: Postdoc, started Oct 2020
-  email: niu@physics.leidenuniv.nl
-  number_educ: 2
-  education1: PhD with <a href="http://www2.phy.pku.edu.cn/~xilin/group-members.html">Xi Lin</a> and <a href="http://faculty.pku.edu.cn/JianWangGroup/en/zhym/25393/list/index.htm">Jian Wei</a>, Peking University
-  education2: BSc Jilin University
+- name: Steven Small
+  photo: Jacky.jpg
+  info: Dean of BBS, started Sep 2019
+  email: small@utdallas.edu
+  number_educ: 3
+  education1: M.D., University of Rochester 
+  education2: Ph.D. University of Maryland (Artificial Intelligence/Computer Scienc
+  education3: A.B. Dartmouth College (Mathematics) 
+  
+  
+# - name: Jiasen Niu
+#   photo: Jiasen.png
+#   info: Postdoc, started Oct 2020
+#   email: niu@physics.leidenuniv.nl
+#   number_educ: 2
+#   education1: PhD with <a href="http://www2.phy.pku.edu.cn/~xilin/group-members.html">Xi Lin</a> and <a href="http://faculty.pku.edu.cn/JianWangGroup/en/zhym/25393/list/index.htm">Jian Wei</a>, Peking University
+#   education2: BSc Jilin University
 
-- name: Jinwon Lee
-  photo: Jinwon.jpg
-  info: Postdoc, started July 2021
-  email: jwlee0421@postech.ac.kr
-  number_educ: 2
-  education1: PhD with <a href="https://caldes.ibs.re.kr/html/caldes_en/">Han Woong Yeom</a> Pohang University of Science and Technology (POSTECH)
-  education2: BSc Pohang University of Science and Technology (POSTECH)
+# - name: Jinwon Lee
+#   photo: Jinwon.jpg
+#   info: Postdoc, started July 2021
+#   email: jwlee0421@postech.ac.kr
+#   number_educ: 2
+#   education1: PhD with <a href="https://caldes.ibs.re.kr/html/caldes_en/">Han Woong Yeom</a> Pohang University of Science and Technology (POSTECH)
+#   education2: BSc Pohang University of Science and Technology (POSTECH)
 
-- name: Damianos Chatzopoulos
+- name: Annette Glotfelty
   photo: Damianos.jpg
-  info: PhD Student, started December 2017
-  email: chatzopoulos@Physics.LeidenUniv.nl
+  info: PhD Student in Speech, Language, and Hearning Sciences program, started Sep 2017
+  email: annette.glotfelty@utdallas.edu
   number_educ: 2
   education1: Bachelor National and Kapodistrian University of Athens with D Syvridis
   education2: Master TU Delft with <a href="http://vanderzantlab.tudelft.nl/">Herre van der Zant</a>
