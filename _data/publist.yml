@@ -5,7 +5,7 @@
   link:
     url: https://doi.org/10.3389/fninf.2021.630172
     display: Front. Neuroinform., 01 April 2021 
-  highlight: 1
+  highlight: 0
   news2:
 
 - title: "One season of head-to-ball impact exposure alters functional connectivity in a central autonomic network"
@@ -34,7 +34,7 @@
   link:
     url: https://doi.org/10.3389/fncom.2019.00054
     display:  Front. Comput. Neurosci., 13 August 2019
-  highlight: 1
+  highlight: 0
 
 - title: "Neurological biomarkers and neuroinformatics: the role of the virtual brain"
   image: pub012018.png
