@@ -1,6 +1,6 @@
 - name: Ana Solodkin
   photo: solodkin.jpg
-  info: Professor, started Sep 2019
+  info: Professor
   introdcution: N/A
   email: solodkin@utdallas.edu
   number_educ: 3
@@ -10,13 +10,23 @@
 
 - name: Steven Small
   photo: small.jpg
-  info: Professor, Dean of BBS, started Sep 2019
+  info: Professor, Dean of BBS
   introduction: N/A
   email: small@utdallas.edu
   number_educ: 3
   education1: M.D., University of Rochester 
   education2: Ph.D. University of Maryland (Artificial Intelligence/Computer Scienc
   education3: A.B. Dartmouth College (Mathematics) 
+  
+- name: Kartavya Sharma
+  photo: kart.jpg
+  info: Assistant Professor, Neurologist
+  introduction: N/A
+  email: kartavya.sharma@utsouthwestern.edu
+  number_educ: 3
+  education1: Residency - UT Southwestern Medical Center (2010-2014), Neurology
+  education2: Fellowship - Johns Hopkins University School of Medicine (2014-2016), Neurocritical Care
+  education3: Medical School - All India Institute of Medical Sciences, India (2003-2008)
   
   
 # - name: Jiasen Niu
