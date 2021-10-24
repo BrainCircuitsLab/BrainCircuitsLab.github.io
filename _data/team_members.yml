@@ -118,8 +118,8 @@
 
 - name: "This could be you !"
   photo: comet.jpg
-  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
-  email: milan.allan@gmail.com
+  info: See <a href="http://braincircuits-lab.github.io/vacancies">openings</a> for more info
+  email: solodkin@utdallas.edu
   number_educ: 0
   education1:
   education2:
