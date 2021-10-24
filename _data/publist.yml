@@ -30,7 +30,7 @@
 - title: "Linking molecular pathways and large-scale computational modeling to assess candidate disease mechanisms and pharmacodynamics in Alzheimer's disease"
   image: pub082019.png
   description: The Virtual Brain (TVB; thevirtualbrain.org) neuroinformatics platform allows standardized large-scale structural connectivity-based simulations of whole brain dynamics. We provide proof of concept for a novel approach that quantitatively links the effects of altered molecular pathways onto neuronal population 1 dynamics. As a novelty, we connect chemical compounds measured with positron emission tomography (PET) with neural function in TVB addressing the phenomenon of hyperexcitability in AD related to the protein amyloid beta (Abeta).
-  authors: Leon Stefanovski, Paul Triebkorn, Andreas Spiegler, Margarita-Arimatea Diaz-Cortes, Ana Solodkin, Viktor Jirsa, Anthony Randal McIntosh, Petra Ritter, Alzheimer's Disease Neuroimaging Initiative
+  authors: Leon Stefanovski, Paul Triebkorn, Andreas Spiegler, Margarita-Arimatea Diaz-Cortes, Ana Solodkin, Viktor Jirsa, Anthony Randal McIntosh, Petra Ritter, for the Alzheimer's Disease Neuroimaging Initiative
   link:
     url: https://doi.org/10.3389/fncom.2019.00054
     display:  Front. Comput. Neurosci., 13 August 2019
