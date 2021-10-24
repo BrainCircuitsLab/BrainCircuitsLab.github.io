@@ -5,7 +5,7 @@
   link:
     url: https://doi.org/10.3389/fninf.2021.630172
     display: Front. Neuroinform., 01 April 2021 
-  highlight: 0
+  highlight: 1
   news2:
 
 - title: "One season of head-to-ball impact exposure alters functional connectivity in a central autonomic network"
@@ -15,7 +15,7 @@
   link:
     url: https://www.sciencedirect.com/science/article/pii/S1053811920307928
     display:  NeuroImage, Volume 223, December 2020, 117306
-  highlight: 0
+  highlight: 1
   news2: 
 
 - title: "Heritability of Structural Patterning in the Human Cerebral Cortex"
@@ -43,7 +43,7 @@
   link:
     url: https://doi.org/10.1016/B978-0-12-804078-2.00001-5
     display: Molecular-Genetic and Statistical Techniques for Behavioral and Neural Research, 2018, Pages 3-30
-  highlight: 0
+  highlight: 1
   news2:
 
 
@@ -54,7 +54,7 @@
   link:
     url: https://doi.org/10.1016/j.nicl.2018.04.017
     display: NeuroImage:Clinical, Volume 19, 2018, Pages 240-251
-  highlight: 0
+  highlight: 1
   news2: 
 
 # - title: "Direct comparison of ARPES, STM, and quantum oscillation data for band structure determination in Sr2RhO4"
