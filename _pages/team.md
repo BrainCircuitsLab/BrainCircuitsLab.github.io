@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Team"
+title: "The Brain Circuits Lab - Team"
 layout: gridlay
-excerpt: "Allan Lab: Team members"
+excerpt: "The Brain Circuits Lab: Team members"
 sitemap: false
 permalink: /team/
 ---
