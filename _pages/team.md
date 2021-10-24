@@ -13,7 +13,7 @@ permalink: /team/
 
 Jump to [P.I.](#Principal-Investigators), [Current Students](#current-students), [alumni](#alumni), [lab visitors](#lab-visitors).
 
-## Principal-Investigators
+## Principal Investigators
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
