@@ -10,7 +10,7 @@
 
 - name: Steven Small
   photo: Jacky.jpg
-  info: Dean of BBS, started Sep 2019
+  info: Professor, Dean of BBS, started Sep 2019
   introduction: N/A
   email: small@utdallas.edu
   number_educ: 3
@@ -35,6 +35,19 @@
 #   education1: PhD with <a href="https://caldes.ibs.re.kr/html/caldes_en/">Han Woong Yeom</a> Pohang University of Science and Technology (POSTECH)
 #   education2: BSc Pohang University of Science and Technology (POSTECH)
 
+- name: Yile Wang
+  photo: website_pic_willem.jpg
+  info: PhD Student in Cognition and Neuroscience Program, started September 2021
+  introduction: My <a href="https://yilewang.github.io">personal website</a>.
+  email: yile.wang@utdallas.edu
+  number_educ: 2
+  education1: Master of Science, The University of Texas at Dallas, Applied Cognition and Neuroscience
+  education2: B.S. Southern Medical University, Applied Psychology
+  education3:
+  education4:
+
+
+
 - name: Annette Glotfelty
   photo: Damianos.jpg
   info: PhD Student in Speech, Language, and Hearning Sciences Program, started Sep 2017
@@ -46,16 +59,7 @@
   education3: 
   
   
-- name: Yile Wang
-  photo: website_pic_willem.jpg
-  info: PhD Student in Cognition and Neuroscience Program, started September 2021
-  introduction: My <a href="https://yilewang.github.io">personal website</a>.
-  email: yile.wang@utdallas.edu
-  number_educ: 2
-  education1: Master of Science, The University of Texas at Dallas, Applied Cognition and Neuroscience
-  education2: B.S. Southern Medical University, Applied Psychology
-  education3:
-  education4:
+
 
 # - name: Tjerk Benschop
 #   photo: tjeruk.jpg
