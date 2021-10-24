@@ -1,5 +1,5 @@
 - name: Ana Solodkin
-  photo: Milan1.jpg
+  photo: solodkin.jpg
   info: Professor, started Sep 2019
   introdcution: N/A
   email: solodkin@utdallas.edu
@@ -9,7 +9,7 @@
   education3: B.Sc. Psychophysiology. Anahuac University, Mexico.
 
 - name: Steven Small
-  photo: Jacky.jpg
+  photo: small.jpg
   info: Professor, Dean of BBS, started Sep 2019
   introduction: N/A
   email: small@utdallas.edu
@@ -36,7 +36,7 @@
 #   education2: BSc Pohang University of Science and Technology (POSTECH)
 
 - name: Yile Wang
-  photo: website_pic_willem.jpg
+  photo: yile.jpg
   info: PhD Student in Cognition and Neuroscience Program, started September 2021
   introduction: My <a href="https://yilewang.github.io">personal website</a>.
   email: yile.wang@utdallas.edu
@@ -49,7 +49,7 @@
 
 
 - name: Annette Glotfelty
-  photo: Damianos.jpg
+  photo: annette.jpg
   info: PhD Student in Speech, Language, and Hearning Sciences Program, started Sep 2017
   introduction: I am a licenced Speech-Language Pathologist. 
   email: annette.glotfelty@utdallas.edu
