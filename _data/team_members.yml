@@ -1,6 +1,7 @@
 - name: Ana Solodkin
   photo: Milan1.jpg
   info: Professor, started Sep 2019
+  introdcution: N/A
   email: solodkin@utdallas.edu
   number_educ: 3
   education1: Ph.D. Physiology and Biophysics. Center for Research and Advanced Studies of the National Polytechnic Institute, Mexico.
@@ -10,6 +11,7 @@
 - name: Steven Small
   photo: Jacky.jpg
   info: Dean of BBS, started Sep 2019
+  introduction: N/A
   email: small@utdallas.edu
   number_educ: 3
   education1: M.D., University of Rochester 
