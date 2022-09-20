@@ -23,7 +23,7 @@
 
 - name: Yile Wang
   photo: yile.jpg
-  info: PhD Student in Cognition and Neuroscience Program, started September 2021
+  info: PhD Student in Cognition and Neuroscience Program, started from September 2021
   introduction: Yile is a first year phd student in the Brain Circuits Lab. He is interested in the brain asymmetry of the Alzhemier's Disease, and using computational neuroscience techniques to solve practical questions. In his spare time, he loves to listen music and go to the gym, because he believes that's the only way he can get relaxed. Check out his personal website:<a href="https://yilewang.github.io">Link</a>.
   email: yile.wang@utdallas.edu
   number_educ: 2
@@ -35,7 +35,7 @@
 
 - name: Leah Chandy
   photo: 
-  info: PhD Student in Cognition and Neuroscience Program, started September 2021
+  info: PhD Student in Cognition and Neuroscience Program, started from September 2021
   introduction: 
   email:
   number_educ: 2
@@ -45,6 +45,16 @@
   education4:
 
   
+- name: Wanqiao Ding
+  photo: 
+  info: PhD Student in Cognition and Neuroscience Program, started from September 2022
+  introduction: N/A
+  email: wanqiao.ding@utdallas.edu
+  number_educ: 1
+  education1: B.S., electrical engineering, Carnegie Mellon University
+  education2: 
+  education3:  
+ 
 
 - name: Lucia Moya Sans
   photo: lucia.jpg
@@ -55,6 +65,7 @@
   education1: B.S., University Carlos III of Madrid, Biomedical Engineering
   education2: 
   education3: 
+
 
 - name: Ethan Burkett
   photo: comet.jpg
