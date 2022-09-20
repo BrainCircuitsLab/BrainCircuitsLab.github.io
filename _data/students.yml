@@ -16,8 +16,8 @@
   introduction: Annette is a licenced Speech-Language Pathologist. 
   email: annette.glotfelty@utdallas.edu
   number_educ: 2
-  education1: Master of Arts, University College London (UCL), Film
-  education2: A.B. Western Illinois University, English, Spanish
+  education1: Master of Arts, Film, University College London (UCL)
+  education2: A.B. English, Spanish, Western Illinois University
   education3: 
 
 
@@ -27,8 +27,20 @@
   introduction: Yile is a first year phd student in the Brain Circuits Lab. He is interested in the brain asymmetry of the Alzhemier's Disease, and using computational neuroscience techniques to solve practical questions. In his spare time, he loves to listen music and go to the gym, because he believes that's the only way he can get relaxed. Check out his personal website:<a href="https://yilewang.github.io">Link</a>.
   email: yile.wang@utdallas.edu
   number_educ: 2
-  education1: Master of Science, The University of Texas at Dallas, Applied Cognition and Neuroscience
-  education2: B.S. Southern Medical University, Applied Psychology, China
+  education1: Master of Science, Applied Cognition and Neuroscience, The University of Texas at Dallas
+  education2: B.S. Applied Psychology, Southern Medical University, China
+  education3:
+  education4:
+
+
+- name: Leah Chandy
+  photo: 
+  info: PhD Student in Cognition and Neuroscience Program, started September 2021
+  introduction: 
+  email:
+  number_educ: 2
+  education1: Master of Science, Applied Cognition and Neuroscience, The University of Texas at Dallas
+  education2: B.S. Neuroscience, The University of Texas at Dallas
   education3:
   education4:
 
@@ -43,47 +55,6 @@
   education1: B.S., University Carlos III of Madrid, Biomedical Engineering
   education2: 
   education3: 
-
-- name: Jevin Kainikkara
-  photo: comet.jpg
-  info: BSc student (premed)
-  introduction: N/A
-  email: jkj170000@utdallas.edu
-  number_educ: 0
-  education1:
-  education2: 
-  education3: 
-
-- name: Sophia Boisvert
-  photo: comet.jpg
-  info: BSc student (CS major)
-  introduction: N/A
-  email: sophia.boisvert@utdallas.edu
-  number_educ: 0
-  education1:
-  education2: 
-  education3: 
-
-- name: Wesley Cha
-  photo: comet.jpg
-  info: BSc student (premed)
-  introduction: N/A
-  email: wesley.cha@utdallas.edu
-  number_educ: 0
-  education1:
-  education2: 
-  education3: 
-  
-- name: Rithvik Kanaad
-  photo: comet.jpg
-  info: BSc student (premed)
-  introduction: N/A
-  email: rithvik.kanaad@utdallas.edu
-  number_educ: 0
-  education1:
-  education2: 
-  education3: 
-
 
 - name: Ethan Burkett
   photo: comet.jpg
@@ -114,6 +85,51 @@
   education1:
   education2: 
   education3: 
+
+
+
+# - name: Jevin Kainikkara
+#   photo: comet.jpg
+#   info: BSc student (premed)
+#   introduction: N/A
+#   email: jkj170000@utdallas.edu
+#   number_educ: 0
+#   education1:
+#   education2: 
+#   education3: 
+
+# - name: Sophia Boisvert
+#   photo: comet.jpg
+#   info: BSc student (CS major)
+#   introduction: N/A
+#   email: sophia.boisvert@utdallas.edu
+#   number_educ: 0
+#   education1:
+#   education2: 
+#   education3: 
+
+# - name: Wesley Cha
+#   photo: comet.jpg
+#   info: BSc student (premed)
+#   introduction: N/A
+#   email: wesley.cha@utdallas.edu
+#   number_educ: 0
+#   education1:
+#   education2: 
+#   education3: 
+  
+# - name: Rithvik Kanaad
+#   photo: comet.jpg
+#   info: BSc student (premed)
+#   introduction: N/A
+#   email: rithvik.kanaad@utdallas.edu
+#   number_educ: 0
+#   education1:
+#   education2: 
+#   education3: 
+
+
+
 
 - name: "This could be you !"
   photo: comet.jpg
