@@ -1,1 +1,9 @@
-- name:
+- name: Lucia 
+  photo: solodkin.jpg
+  info: Professor
+  introduction: N/A
+  email: solodkin@utdallas.edu
+  number_educ: 3
+  education1: Ph.D., Center for Research and Advanced Studies of the National Polytechnic Institute, Mexico, Physiology and Biophysics. 
+  education2: M.Sc., Center for Research and Advanced Studies of the National Polytechnic Institute, Mexico, Physiology and Biophysics. 
+  education3: B.Sc., Anahuac University, Mexico, Psychophysiology. 
