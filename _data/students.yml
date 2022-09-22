@@ -145,7 +145,6 @@
 - name: "This could be you !"
   photo: comet.jpg
   info: See <a href="http://braincircuitslab.github.io/vacancies">openings</a> for more info
-  email: 
   number_educ: 0
   education1:
   education2:
