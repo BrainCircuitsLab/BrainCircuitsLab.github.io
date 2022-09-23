@@ -12,7 +12,7 @@
 
 - name: Annette Glotfelty
   photo: annette.jpg
-  info: PhD Student in Cognition and Neuroscience Program, started Sep 2017
+  info: PhD Student in Cognition and Neuroscience Program, started from Sep 2017
   introduction: Annette is a licenced Speech-Language Pathologist studying the neurobiology of language.
   email: annette.glotfelty@utdallas.edu
   number_educ: 2
@@ -24,7 +24,7 @@
 - name: Yile Wang
   photo: yile.jpg
   info: PhD Student in Cognition and Neuroscience Program, started from September 2021
-  introduction: Yile is a first year phd student in the Brain Circuits Lab. He is interested in the brain asymmetry of the Alzhemier's Disease, and using computational neuroscience techniques to solve practical questions. In his spare time, he loves to listen music and go to the gym, because he believes that's the only way he can get relaxed. Check out his personal website:<a href="https://yilewang.github.io">Link</a>.
+  introduction: Yile is a phd student in the Brain Circuits Lab. He is interested in the brain asymmetry of the Alzhemier Disease, and using computational neuroscience techniques to solve practical questions. In his spare time, he loves to chill at home. Check out his personal website: <a href="https://yilewang.github.io">Link</a>.
   email: yile.wang@utdallas.edu
   number_educ: 2
   education1: Master of Science, Applied Cognition and Neuroscience, The University of Texas at Dallas
@@ -57,13 +57,13 @@
 
 
 - name: Ethan Burkett
-  photo: comet.jpg
+  photo: ethan.jpg
   info: BSc student (premed)
   introduction: N/A
   email: ethan.burkett@utdallas.edu
-  number_educ: 0
-  education1:
-  education2: 
+  number_educ: 1
+  education1: B.S. Neuroscience, The University of Texas at Dallas
+  education2: MS Applied Cognition and Neuroscience Student, The University of Texas at Dallas
   education3: 
 
 - name: Yash Sharma
