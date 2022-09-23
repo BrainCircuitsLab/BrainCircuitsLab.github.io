@@ -1,3 +1,15 @@
+
+- title: "Brain Modeling of Neurogenerative Disorders"
+  image: pub05262022.png
+  description: Modeling is now recognized as an essential tool for studying one of the most complex structures known: the human brain. Since the seminal work of Wilson and Cowan in 1970s, who introduced the first neural mass model, much effort has been dedicated to understanding the brain dynamics and elucidating their intricate relation to neurodegenerative diseases or other aging-related brain disorders. Advances in Neurosciences have been driven by the vertiginous growth in all aspects of multi-omic data: genetic, epigenetic, transcriptomics, connectomics, exposomics, and phenomics. The continuous growth in computational resources has matched such overwhelming amounts of data. Since the phenomena/processes linked to diseases and/or brain disorders occur at different time-space scales, complex multi-scale models were needed and developed. A cornerstone of Brain modeling is high-dimensional …
+  authors: Jorge Gulín-González, Maria L Bringas-Vega, Eduardo Martínez-Montes, Petra Ritter, Ana Solodkin, Mitchell Joseph Valdes-Sosa, Pedro Antonio Valdes-Sosa
+  link:
+    url: https://doi.org/10.3389/fninf.2022.937790
+    display: Front Neuroinform. 2022; 16: 937790.
+  highlight: 1
+  news2:
+
+
 - title: "Brain simulation augments machine‐learning–based classification of dementia"
   image: pub02202022.png
   description: We use PET and magnetic resonance imaging (MRI) data from 33 participants of the Alzheimer’s Disease Neuroimaging Initiative (ADNI3) combined with frequency compositions of TVB-simulated local field potentials (LFP) for ML classification. The combination of empirical neuroimaging features and simulated LFPs significantly outperformed the classification accuracy of empirical data alone by about 10% (weighted F1-score empirical 64.34% vs. combined 74.28%). Informative features showed high biological plausibility regarding the AD-typical spatial distribution.
