@@ -11,7 +11,7 @@ permalink: /team/
  **If you are interested in joining the team, please contact Dr. Solodkin directly or ** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-Jump to [P.I.](#Principal-Investigators), [Adjunct Investigators](#adjunct-investigators), [Post-doc](#post-doc), [Current Students](#current-students), [Invited Researcher](#invited-researcher), [alumni](#alumni), [lab visitors](#lab-visitors).
+Jump to [P.I.](#Principal-Investigators), [Adjunct Investigators](#adjunct-investigators), [Post-doc](#post-doc), [Current Students](#current-students), [Invited Researcher](#invited-researcher), [alumni](#alumni).
 
 ## Principal Investigators
 {% assign number_printed = 0 %}
