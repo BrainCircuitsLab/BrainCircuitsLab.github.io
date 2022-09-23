@@ -24,7 +24,7 @@
 - name: Yile Wang
   photo: yile.jpg
   info: PhD Student in Cognition and Neuroscience Program, started from September 2021
-  introduction: "Yile is a phd student in the Brain Circuits Lab. He is interested in the brain asymmetry of the Alzhemier's Disease, and using computational neuroscience techniques to solve practical questions. In his spare time, he loves to just chill at home. Check out his personal website: <a href="https://yilewang.github.io">Link</a>."
+  introduction: <pre>Yile is a phd student in the Brain Circuits Lab. He is interested in the brain asymmetry of the Alzhemier's Disease, and using computational neuroscience techniques to solve practical questions. In his spare time, he loves to just chill at home. Check out his personal website: <a href="https://yilewang.github.io">Link</a>.</pre>
   email: yile.wang@utdallas.edu
   number_educ: 2
   education1: Master of Science, Applied Cognition and Neuroscience, The University of Texas at Dallas
