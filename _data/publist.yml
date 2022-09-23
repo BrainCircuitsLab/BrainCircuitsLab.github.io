@@ -1,3 +1,15 @@
+- title: "Brain simulation augments machine‐learning–based classification of dementia"
+  image: pub02202022.png
+  description: We use PET and magnetic resonance imaging (MRI) data from 33 participants of the Alzheimer’s Disease Neuroimaging Initiative (ADNI3) combined with frequency compositions of TVB-simulated local field potentials (LFP) for ML classification. The combination of empirical neuroimaging features and simulated LFPs significantly outperformed the classification accuracy of empirical data alone by about 10% (weighted F1-score empirical 64.34% vs. combined 74.28%). Informative features showed high biological plausibility regarding the AD-typical spatial distribution.
+  authors: Paul Triebkorn, Leon Stefanovski, Kiret Dhindsa, Margarita‐Arimatea Diaz‐Cortes, Patrik Bey, Konstantin Bülau, Roopa Pai, Andreas Spiegler, Ana Solodkin, Viktor Jirsa, Anthony Randal McIntosh, Petra Ritter, Alzheimer's Disease Neuroimaging Initiative
+  link:
+    url: https://doi.org/10.1002/trc2.12303
+    display: Alzheimer's & Dementia: Translational Research & Clinical Interventions, 8.,1., e12303
+  highlight: 1
+  news2:
+
+
+
 - title: "Bridging scales in Alzheimer's disease: Biological framework for brain simulation with The Virtual Brain"
   image: pub042021.png
   description: In the present review, we discuss candidate contributing factors leading to AD, and evaluate novel computational brain simulation methods to further disentangle their potential roles.
