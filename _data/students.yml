@@ -66,6 +66,18 @@
   education2: MS Applied Cognition and Neuroscience Student, The University of Texas at Dallas
   education3: 
 
+
+- name: Nicole Koulov
+  photo: comet.jpg
+  info: BSc student (premed)
+  introduction: N/A
+  email: nicole.koulov@utdallas.edu
+  number_educ: 1
+  education1: B.S. Neuroscience, The University of Texas at Dallas
+  education2: 
+  education3: 
+
+
 - name: Yash Sharma
   photo: comet.jpg
   info: BSc student (premed)
@@ -76,15 +88,7 @@
   education2: 
   education3: 
 
-- name: Nicole Koulov
-  photo: comet.jpg
-  info: BSc student (premed)
-  introduction: N/A
-  email: nicole.koulov@utdallas.edu
-  number_educ: 0
-  education1:
-  education2: 
-  education3: 
+
 
 
 
