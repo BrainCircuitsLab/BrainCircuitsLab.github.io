@@ -49,7 +49,7 @@
   link:
     url: https://www.sciencedirect.com/science/article/pii/S1053811920307928
     display:  NeuroImage, Volume 223, December 2020, 117306
-  highlight: 1
+  highlight: 0
   news2: 
 
 - title: "Heritability of Structural Patterning in the Human Cerebral Cortex"
@@ -83,7 +83,7 @@
 
 - title: "Differentiation of Alzheimer's disease based on local and global parameters in personalized Virtual Brain models"
   image: pub042018.png
-  description: 
+  description: Alzheimer's disease (AD) is marked by cognitive dysfunction emerging from neuropathological processes impacting brain function. AD affects brain dynamics at the local level, such as changes in the balance of inhibitory and excitatory neuronal populations, as well as long-range changes to the global network. Individual differences in these changes as they relate to behaviour are poorly understood. Here, we use a multi-scale neurophysiological model, “The Virtual Brain (TVB)”, based on empirical multi-modal neuroimaging data, to study how local and global dynamics correlate with individual differences in cognition. In particular, we modeled individual resting-state functional activity of 124 individuals across the behavioural spectrum from healthy aging, to amnesic Mild Cognitive Impairment (MCI), to AD. The model parameters required to accurately simulate empirical functional brain imaging data correlated significantly with cognition, and exceeded the predictive capacity of empirical connectomes.
   authors: Joelle Zimmermann, Alistair Perry, Michael Breakspear, Michael Schirner, Perminder Sachdev, Wei Wen, Nicole A Kochan, Michael Mapstone, Petra Ritter, Anthony R McIntosh, Ana Solodkin
   link:
     url: https://doi.org/10.1016/j.nicl.2018.04.017
