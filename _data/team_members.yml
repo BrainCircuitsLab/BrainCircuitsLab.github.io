@@ -4,19 +4,19 @@
   introduction: N/A
   email: solodkin@utdallas.edu
   number_educ: 3
-  education1: Ph.D., Center for Research and Advanced Studies of the National Polytechnic Institute, Mexico, Physiology and Biophysics. 
-  education2: M.Sc., Center for Research and Advanced Studies of the National Polytechnic Institute, Mexico, Physiology and Biophysics. 
-  education3: B.Sc., Anahuac University, Mexico, Psychophysiology. 
+  education1: Ph.D., Physiology and Biophysics, Center for Research and Advanced Studies of the National Polytechnic Institute, Mexico.
+  education2: M.Sc., Physiology and Biophysics, Center for Research and Advanced Studies of the National Polytechnic Institute, Mexico.
+  education3: B.Sc., Psychophysiology, Anahuac University, Mexico. 
 
 - name: Steven Small
   photo: small.jpg
-  info: Professor, Dean of BBS
+  info: Dean of BBS, Professor
   introduction: N/A
   email: small@utdallas.edu
   number_educ: 3
-  education1: M.D., University of Rochester 
-  education2: Ph.D. University of Maryland (Artificial Intelligence/Computer Scienc
-  education3: A.B. Dartmouth College (Mathematics) 
+  education1: M.D., University of Rochester
+  education2: Ph.D., Artificial Intelligence/Computer Science, University of Maryland 
+  education3: A.B., Mathematics, Dartmouth College
   
   
 # - name: Jiasen Niu
