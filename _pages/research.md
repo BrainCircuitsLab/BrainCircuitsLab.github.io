@@ -8,17 +8,23 @@ permalink: /research/
 
 # Research
 
-Our overarching goal is to understand brain dynamics changes in neurological diseases. To rearch the goal, we used and develop 
+As a duo-PI lab, there are several different research tracks however with a large portion of intersections:
+- The first  **brain dynamics of neurological diseases** (Dr. Solodkin).
+  - **The Alzheimer's Disease**
+
+  - **Parkinson's Disease**
+
+  - **Coma and Recovery**
 
 
 
-Here are some current projects we are working on:
+- The second area is the **neurobiology of language processing** (Dr. Small).
+  - **The neural mechanisms of curse words processing**
 
-**Alzheimer's Disease**
 
-**Parkinson's Disease**
+Our lab 
 
-**Coma and Recovery**
+
 
 **Pipeline Application of Neuroimaging Data Preprocessing**
 
