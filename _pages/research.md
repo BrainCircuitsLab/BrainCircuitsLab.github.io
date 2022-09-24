@@ -11,7 +11,7 @@ permalink: /research/
 As a duo-PI lab, there are several different research tracks however with a large portion of intersections:
 - The first  **brain dynamics of neurological diseases** (Dr. Solodkin).
   - **The Alzheimer's Disease**
-
+![]({{ site.url }}{{ site.baseurl }}/images/respic/SpinFluc.png){: style="width: 70%; float: center; margin: 10px"}
   - **Parkinson's Disease**
 
   - **Coma and Recovery**
@@ -22,14 +22,12 @@ As a duo-PI lab, there are several different research tracks however with a larg
   - **The neural mechanisms of curse words processing**
 
 
-Our lab 
+At the same time, our lab is also actively contributing to reproducible science and open source environment in all stages of our studies, from neuroimaging data preprocessing to statistical analysis methods [link](https://github.com/orgs/BrainCircuitsLab/repositories). Here we listed several of on-going projects related to the **standardized preprocessing in neuroscience research**:
 
 
-
-**Pipeline Application of Neuroimaging Data Preprocessing**
-
-- fMRI
-- EEG
+- **Pipeline Application of Neuroimaging Data Preprocessing**
+  - fMRI: We are collaborating with 
+  - EEG: We are collaborating with UT Southwestern medical center to develop the 
 
 
 
