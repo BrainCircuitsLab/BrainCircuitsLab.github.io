@@ -79,12 +79,12 @@
 
 
 - name: Yash Sharma
-  photo: comet.jpg
+  photo: yash.jpg
   info: BSc student (premed)
-  introduction: N/A
-  email: yash.sharma@utdallas.edu
-  number_educ: 0
-  education1:
+  introduction: Yash graduated from the University of Texas at Dallas in 2022 with a degree in Neuroscience and a minor in Biology. He joined the lab in Spring 2021 and is currently on the premedical track. Yash works with Kartavya Sharma M.D. to investigate clinical data of patients who suffered cardiac arrest, focusing on how to improve prognostication of neurologic recovery.
+  email: Yash.sharma@utdallas.edu
+  number_educ: 1
+  education1: BSc Neuroscience Graduate (premed)
   education2: 
   education3: 
 
