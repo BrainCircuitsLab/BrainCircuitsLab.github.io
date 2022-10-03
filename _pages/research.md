@@ -11,7 +11,7 @@ permalink: /research/
 As a duo-PI lab, there are several different research tracks however with a large portion of intersections:
 - The first  **brain dynamics of neurological diseases** (Dr. Solodkin).
   - **The Alzheimer's Disease**
-![]({{ site.url }}{{ site.baseurl }}/images/respic/SpinFluc.png){: style="width: 70%; float: center; margin: 10px"}
+We![]({{ site.url }}{{ site.baseurl }}/images/respic/SpinFluc.png){: style="width: 70%; float: center; margin: 10px"}
   - **Parkinson's Disease**
 
   - **Coma and Recovery**
