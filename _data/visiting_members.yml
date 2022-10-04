@@ -1,9 +1,9 @@
-- name: Lucia Moya Sans
+- name: Lucia Moya-Sans
   photo: lucia.jpg
-  info: Master student from Spain
-  introduction: N/A
+  info: MSc Graduate from Spain, collaborating with the lab since july 2020
+  introduction: Lucia is a Master Graduate from Universidad Carlos III de Madrid collaborating with the Brain Circuits Lab. She is interested in the application of computational methods for disentangling brain connectivity changes in Neurodegenerative diseases, specializing in Parkinson's Disease. She also works in Image Processing and Reconstruction, as well as the application of Neural Networks for solving biomedical problems. Check out her personal website <a href="https://lmoyasans.github.io">Link</a>.
   email: 100383016@alumnos.uc3m.es
-  number_educ: 2
-  education1: M.S., University Carlos III of Madrid, Biomedical Engineering
-  education2: B.S., University Carlos III of Madrid, Biomedical Engineering
-  education3: 
+  number_educ: 3
+  education1: M.S., University Carlos III of Madrid, Information Engineering for Health
+  education2: B.S., University Carlos III of Madrid, Computer Science and Engineering
+  education3: B.S., University Carlos III of Madrid, Biomedical Engineering
