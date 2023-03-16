@@ -55,6 +55,18 @@
   education2: 
   education3:  
 
+- name: Bangjie Wang
+  photo: bangjie.jpg
+  info: Bangjie is a PhD student in the Cognitive Neuroscience program, started from Jan 2023
+  introduction: He is interested in understanding neural representations of naturalistic speech.
+  email: bangjie.wang@utdallas.edu
+  number_educ: 2
+  education1: M.S. in Neuroscience, University College London
+  education2: B.A. in Psychology, Grinnell College
+  education3:  
+
+
+
 
 - name: Ethan Burkett
   photo: ethan.jpg
