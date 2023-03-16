@@ -1,0 +1,21 @@
+
+- name: Nicole Koulov
+  photo: nicole.png
+  info: BSc student (premed)
+  introduction: Nicole is a recently graduated college student interested in pursuing a career in medicine. She joined The Brain Circuits Lab in 2021 and is focused on exploring memory and neurological disorders that affect memory and cognition such as Alzheimer’s Disease. Outside of the lab, Nicole enjoys painting and traveling.
+  email: nicolekoulov@gmail.com
+  number_educ: 1
+  education1: B.S. Neuroscience, The University of Texas at Dallas
+  education2: 
+  education3: 
+
+
+- name: Yash Sharma
+  photo: yash.jpeg
+  info: BSc student (premed)
+  introduction: Yash graduated from the University of Texas at Dallas in 2022 with a degree in Neuroscience and a minor in Biology. He joined the lab in Spring 2021 and is currently on the premedical track. Yash works with Kartavya Sharma M.D. to investigate clinical data of patients who suffered cardiac arrest, focusing on how to improve prognostication of neurologic recovery.
+  email: Yash.sharma@utdallas.edu
+  number_educ: 1
+  education1: B.S. Neuroscience, The University of Texas at Dallas
+  education2: 
+  education3: 
